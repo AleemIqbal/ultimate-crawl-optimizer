@@ -8,7 +8,7 @@ Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Crawl Optimization Plugin is designed to help optimize your website’s crawl rate by removing unnecessary links and information from your HTTP headers. 
+The Ultimate Crawl Optimizer is a powerful WordPress plugin designed to optimize and streamline your website's crawlability by search engines. It features three sections: Crawl Optimization, Robots.txt Optimization, and Htaccess Optimization. The Crawl Optimization section removes unnecessary metadata and feed links to improve your website's visibility, while the Robots.txt Optimization section offers basic and advanced options to customize your robots.txt file and protect your website's backend. The Htaccess section allows you to restrict access to your site from specific countries and provides security and performance optimizations. With this plugin, you can easily manage your robots.txt file and ensure that your website is protected and optimized for search engines.
 
 == Description ==
 
@@ -26,13 +26,13 @@ In conclusion, The Ultimate Crawl Optimizer is a comprehensive plugin that offer
 == Installation ==
 
 1. Log in to your WordPress admin panel and go to Plugins -> Add New
-2. Type **Crawl Optimization** in the search box and click on search button.
-3. Find Crawl Optimization plugin.
+2. Type **Ultimate Crawl Optimizer** in the search box and click on search button.
+3. Find Ultimate Crawl Optimizer plugin.
 4. Then click on Install Now after that activate the plugin.
 
 OR
 
-1. Download and save the **Crawl Optimization** plugin to your hard disk.
+1. Download and save the **Ultimate Crawl Optimizer** plugin to your hard disk.
 2. Login to your WordPress and go to the Add Plugins page.
 3. Click Upload Plugin button to upload the zip.
 4. Click Install Now to install and activate the plugin.
