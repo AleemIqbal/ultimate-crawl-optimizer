@@ -1,10 +1,10 @@
-=== Ultimate Crawl Optimizer ===
+=== Ultimate Crawl Optimizer 1.4.2 ===
 Contributors: Aleem Iqbal, Faheem Iqbal,Big Techies Team
 Tags: Crawl Rate Optimization,Crawl Optimization
 Requires at least: 4.3
 Tested up to: 6.1.1
 Requires PHP: 5.2.4
-Stable tag: 1.3
+Stable tag: 1.4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
