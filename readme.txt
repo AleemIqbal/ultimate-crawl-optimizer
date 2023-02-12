@@ -1,4 +1,4 @@
-=== Crawl Optimization ===
+=== Ultimate Crawl Optimizer ===
 Contributors: Aleem Iqbal, Faheem Iqbal,Big Techies Team
 Tags: Crawl Rate Optimization,Crawl Optimization
 Requires at least: 4.3
